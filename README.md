@@ -10,7 +10,7 @@
 clone this repo into ~/.vim/bundles/
 add the following to your .vimrc:
 
-  nmap <F4> :w<CR>:make<CR>:cw<CR>
+    nmap <F4> :w<CR>:make<CR>:cw<CR>
 
 this saves then rus jslint
 
